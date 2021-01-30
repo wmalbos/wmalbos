@@ -1,7 +1,5 @@
 
-## <center>==  Sommaire ==</center>
-
-### -- Expérimentations --  
+### == Expérimentations ==  
 
 - [LUA - Löve2D | InfiniteMusicRunner](./LUA-LOVE2D-InfiniteMusicRunner/README.md) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
 - [LUA - Löve2D | ZombiesAttack](./LUA-LOVE2D-ZombiesAttack/README.md) - Détection et Tracking du personnage par les zombies
@@ -15,10 +13,10 @@
 - [C - Arduino | Chenillard LED](./C-ARDUINO-ChenillardLED/README.md)
 
 
-### -- Algorithmie -- 
+### == Algorithmie ==  
 
 
-### -- Jeux vidéos -- 
+### == Jeux vidéos ==  
 
 - [LUA - Löve2D | Tetris](./LUA-LOVE2D-Tetris/README.md)
 - [LUA - Löve2D | Pong](./LUA-LOVE2D-Pong/README.md)
@@ -30,6 +28,6 @@
 - [JavaScript - Phaser.js | Plateforme2D ](./JS-PHASER-Plateforme2D/README.md)
 
 
-### -- Autres Projets --
+### == Autres Projets == 
 
 - [Ubuntu]()
