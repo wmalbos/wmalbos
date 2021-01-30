@@ -1,21 +1,13 @@
 [Retourner au sommaire](../README.md)
 
-<p align="center">
+
 # InfiniteMusicRunner
-</p>
-
-<p align="center">#Lua #Löve2D</p>
-
-
-
-## Description :
 
 Cette partie de la formation permet d'expérimenter l'intégration de bruitages (sons) dans un jeux vidéo. En développant
 les bases d'un jeu de type "Infinite Runner" avec scrolling horizontale ainsi qu'un "music mixer" pour passer d'une
 musique à une autre avec un effet de "fondu".
 
-
-## Aperçu :
+##### #Lua #Löve2D
 
 <p float="center">
 <img width="300" src="./docs/screen_cool.jpg">
