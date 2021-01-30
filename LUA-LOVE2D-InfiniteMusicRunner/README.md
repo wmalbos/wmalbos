@@ -12,11 +12,15 @@ musique à une autre avec un effet de "fondu".
 ## Aperçu :
 
 
-<p align="center"><img src="./docs/screen_cool.jpg"></p>
-<p align="center">Mode "musique cool"</p>
+<p align="center"><img width="300" src="./docs/screen_cool.jpg"></p>
 
-<p align="center"><img src="./docs/screen_techno.jpg"></p>
-<p align="center">Mode "Musique techno"</p>
+[comment]: <> (<p align="center">Mode "musique cool"</p>)
 
-<p align="center"><img src="./docs/screen_jump.jpg"></p>
-<p align="center">Déplacement et saut du personnage</p>
+
+<p align="center"><img width="300"  src="./docs/screen_techno.jpg"></p>
+
+[comment]: <> (<p align="center">Mode "Musique techno"</p>)
+
+<p align="center"><img width="300"  src="./docs/screen_jump.jpg"></p>
+
+[comment]: <> (<p align="center">Déplacement et saut du personnage</p>)
