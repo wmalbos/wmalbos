@@ -1,36 +1,19 @@
-# <center>ZombiesAttack</center>
-
-<center>#Lua #Löve2D </center>
-
-
-
-
 [Retourner au sommaire](../README.md)
 
-## Description :
+
+## ZombiesAttack 
 
 Cette partie de la formation permet d'expérimenter l'ajout de comportements à des zombies. En utilisant quelques
 élements de base de l'Intelligence Artificielle (Agents, Machines à états, ... ) les zombies sont capables de traquer le
 personnage lorsqu'il est proche d'eux et de transmettre l'information aux autres zombies proches. Si
 le personnage ce déplace, les zombies le poursuivrons tant qu'il reste dans une certaine distance.
 
-## Aperçu :
+[#Lua](https://github.com/lua/lua) [#Löve2D](https://github.com/love2d/love)
 
-<center>
+<p float="center">
+<img width="300" src="./docs/screen_start.jpg">
+<img width="300" src="./docs/screen_move.jpg">
+<img width="300" src="./docs/screen_alerte.jpg">
+<img width="300" src="./docs/screen_end.jpg">
+</p>
 
-![Lancement](./docs/screen_start.jpg)  
-Détection des zombies proches
-
-
-![Déplcament du personnage](./docs/screen_move.jpg)  
-Déplacement du personnage
-
-
-![Alerte](./docs/screen_alerte.jpg)  
-Alerte d'autres zombies plus éloigner
-
-
-![Fin](./docs/screen_end.jpg)  
-Mort du personnage
-
-</center>
