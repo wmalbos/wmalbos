@@ -14,9 +14,11 @@ musique à une autre avec un effet de "fondu".
 
 
 <p align="center">
+
 ![Mode "Musique cool"](./docs/screen_cool.jpg)
+Mode "musique cool"
 </p>
-<p align="center">Mode "musique cool"</p> 
+
 
 <p align="center">
 ![Mode "Musique techno"](./docs/screen_techno.jpg)
