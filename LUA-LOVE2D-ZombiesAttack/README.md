@@ -11,9 +11,9 @@ le personnage ce déplace, les zombies le poursuivrons tant qu'il reste dans une
 [#Lua](https://github.com/lua/lua) [#Löve2D](https://github.com/love2d/love)
 
 <p float="center">
-<img width="300" src="./docs/screen_start.jpg">
-<img width="300" src="./docs/screen_move.jpg">
-<img width="300" src="./docs/screen_alerte.jpg">
-<img width="300" src="./docs/screen_end.jpg">
+<img width="240" src="./docs/screen_start.jpg">
+<img width="240" src="./docs/screen_move.jpg">
+<img width="240" src="./docs/screen_alerte.jpg">
+<img width="240" src="./docs/screen_end.jpg">
 </p>
 
