@@ -11,8 +11,8 @@ musique à une autre avec un effet de "fondu".
 
 ## Aperçu :
 
+<p float="left">
 <img width="300" src="./docs/screen_cool.jpg">
-
 <img width="300"  src="./docs/screen_techno.jpg">
-
 <img width="300"  src="./docs/screen_jump.jpg">
+</p>
