@@ -1,8 +1,7 @@
 [Retourner au sommaire](../README.md)
 
-# <span align="center">InfiniteMusicRunner</span>
-
-<p align="center">#Lua #Löve2D </p>
+<p align="center" style="font-size:30px;font-weight:700;">InfiniteMusicRunner</p>
+<p align="center">#Lua #Löve2D</p>
 
 ## Description :
 
@@ -14,14 +13,10 @@ musique à une autre avec un effet de "fondu".
 
 
 <p align="center"><img src="./docs/screen_cool.jpg"></p>
-<p>Mode "musique cool"</p>
+<p align="center">Mode "musique cool"</p>
 
-<p align="center">
-![Mode "Musique techno"](./docs/screen_techno.jpg)
-</p>
+<p align="center"><img src="./docs/screen_techno.jpg"></p>
 <p align="center">Mode "Musique techno"</p>
 
-<p align="center">
-![Saut du personnage"](./docs/screen_jump.jpg)
-</p>
+<p align="center"><img src="./docs/screen_jump.jpg"></p>
 <p align="center">Déplacement et saut du personnage</p>
