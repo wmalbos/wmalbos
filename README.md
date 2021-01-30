@@ -35,20 +35,11 @@
 
 ### == Aides mémoires == 
 
-- [Outils de versionning | GIT](./aide_memoire/)
+#### - Languages
+ [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) 
   
+#### - Frameworks 
+[Symfony](./aide_memoire/) - [Laravel](./aide_memoire/) - [Django](./aide_memoire/) - [RubyOnRails](./aide_memoire/)
 
-- [Language | C](./aide_memoire/)
-- [Language | C++](./aide_memoire/)
-- [Language | C#](./aide_memoire/)
-- [Language | Java](./aide_memoire/)
-- [Language | PHP](./aide_memoire/)
-- [Language | Python](./aide_memoire/)
-- [Language | Ruby](./aide_memoire/)
-- [Language | JavaScript](./aide_memoire/)
-  
-
-- [Framework | Symfony](./aide_memoire/)
-- [Framework | Laravel](./aide_memoire/)
-- [Framework | Django](./aide_memoire/)
-- [Framework | RubyOnRails](./aide_memoire/)
+#### - Outils de versioning
+[Git](./aide_memoire/) 
