@@ -14,18 +14,15 @@ En développant les bases d'un jeu de type "Infinite Runner" avec scrolling hori
 ## Aperçu : 
 <center>
 
-![Mode "Musique cool"](./docs/screen_cool.jpg)
-
+![Mode "Musique cool"](./docs/screen_cool.jpg)  
 Mode "musique cool" 
 
 
-![Mode "Musique techno"](./docs/screen_techno.jpg)
-
+![Mode "Musique techno"](./docs/screen_techno.jpg)  
 Mode "Musique techno"
 
 
-![Saut du personnage"](./docs/screen_jump.jpg)
-
+![Saut du personnage"](./docs/screen_jump.jpg)  
 Déplacement et saut du personnage
 
 </center>

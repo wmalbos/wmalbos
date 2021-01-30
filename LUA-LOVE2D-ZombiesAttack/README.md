@@ -18,23 +18,19 @@ le personnage ce déplace, les zombies le poursuivrons tant qu'il reste dans une
 
 <center>
 
-![Lancement](./docs/screen_start.jpg)
-
+![Lancement](./docs/screen_start.jpg)  
 Détection des zombies proches
 
 
-![Déplcament du personnage](./docs/screen_move.jpg)
-
+![Déplcament du personnage](./docs/screen_move.jpg)  
 Déplacement du personnage
 
 
-![Alerte](./docs/screen_alerte.jpg)
-
+![Alerte](./docs/screen_alerte.jpg)  
 Alerte d'autres zombies plus éloigner
 
 
-![Fin](./docs/screen_end.jpg)
-
+![Fin](./docs/screen_end.jpg)  
 Mort du personnage
 
 </center>
