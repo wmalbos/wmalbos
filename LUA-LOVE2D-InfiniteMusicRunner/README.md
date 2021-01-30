@@ -1,10 +1,12 @@
-# <center>InfiniteMusicRunner</center>
-<center>#Lua #Löve2D </center>
-
-
-
-
 [Retourner au sommaire](../README.md)
+
+# <span align="center">InfiniteMusicRunner</span>
+<span align="center">#Lua #Löve2D </span>
+
+
+
+
+
 
 ## Description :
  
@@ -14,15 +16,15 @@ En développant les bases d'un jeu de type "Infinite Runner" avec scrolling hori
 ## Aperçu : 
 <center>
 
-![Mode "Musique cool"](./docs/screen_cool.jpg)  
-Mode "musique cool" 
+![Mode "Musique cool"](./docs/screen_cool.jpg)
+<p align="center">Mode "musique cool"</p> 
 
 
-![Mode "Musique techno"](./docs/screen_techno.jpg)  
-Mode "Musique techno"
+![Mode "Musique techno"](./docs/screen_techno.jpg)
+<p align="center">Mode "Musique techno"</p>
 
 
-![Saut du personnage"](./docs/screen_jump.jpg)  
-Déplacement et saut du personnage
+![Saut du personnage"](./docs/screen_jump.jpg)
+<p align="center">Déplacement et saut du personnage</p>
 
 </center>
