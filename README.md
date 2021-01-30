@@ -3,12 +3,11 @@
 
 ### -- Expérimentations --  
 
-- [LUA - Löve2D | ZombiesAttack](./LUA-LOVE2D-ZombiesAttack/README.md)
-- [LUA - Löve2D | TilesMoveAndCrash](./LUA-LOVE2D-TilesMoveAndCrash/README.md)
+- [LUA - Löve2D | InfiniteMusicRunner](./LUA-LOVE2D-InfiniteMusicRunner/README.md) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
+- [LUA - Löve2D | ZombiesAttack](./LUA-LOVE2D-ZombiesAttack/README.md) - Détection et Tracking du personnage par les zombies
+- [LUA - Löve2D | LunarLander](./LUA-LOVE2D-LunarLander/README.md) - Rotation, Gravité et Vélocité
 - [LUA - Löve2D | TileSheetMap](./LUA-LOVE2D-TileSheetMap/README.md)
-- [LUA - Löve2D | InfiniteMusicRunner](./LUA-LOVE2D-InfiniteMusicRunner/README.md)
-- [LUA - Löve2D | LunarLander](./LUA-LOVE2D-LunarLander/README.md)
-
+- [LUA - Löve2D | TilesMoveAndCrash](./LUA-LOVE2D-TilesMoveAndCrash/README.md)
 
 - [JavaScript | Système solaire ](./JS-SolarSystem/README.md)
 
