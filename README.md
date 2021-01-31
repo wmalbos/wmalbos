@@ -1,21 +1,21 @@
 
 # Table des matières
-1.  [Expérimentations](https://github.com/wmalbos/wmalbos#exp%C3%A9rimentations-)  
-1.  [Algorithmique](https://github.com/wmalbos/wmalbos#algorithmique-)  
-1.  [Jeux vidéos](https://github.com/wmalbos/wmalbos#jeux-vid%C3%A9os-)  
-1.  [Web](https://github.com/wmalbos/wmalbos#web-)  
-1.  [Autres Projets](https://github.com/wmalbos/wmalbos#autres-projets-)  
-1.  [Aides mémoires](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires-)
-    1.  [Programmation](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires-)
-    1.  [Languages](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires-)
-    1.  [Frameworks](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires-)
-    1.  [Outils de versionning](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires-)
-    1.  [Autres](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires-)
+1.  [Expérimentations](https://github.com/wmalbos/wmalbos#exp%C3%A9rimentations)  
+1.  [Algorithmique](https://github.com/wmalbos/wmalbos#algorithmique)  
+1.  [Jeux vidéos](https://github.com/wmalbos/wmalbos#jeux-vid%C3%A9os)  
+1.  [Web](https://github.com/wmalbos/wmalbos#web)  
+1.  [Autres Projets](https://github.com/wmalbos/wmalbos#autres-projets)  
+1.  [Aides mémoires](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
+    1.  [Programmation](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
+    1.  [Languages](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
+    1.  [Frameworks](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
+    1.  [Outils de versionning](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
+    1.  [Autres](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
 
 <br/>
 <br/>
 
-## Expérimentations ==  
+## Expérimentations
 
 - [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
 - [LUA - Löve2D | ZombiesAttack](./sources/LUA-LOVE2D-ZombiesAttack/) - Détection et Tracking du personnage par les zombies
@@ -29,10 +29,10 @@
 - [C - Arduino | Chenillard LED](./sources/C-ARDUINO-ChenillardLED/)
 
 
-## Algorithmique ==  
+## Algorithmique
 - [Parcours en profondeur](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
 
-## Jeux vidéos ==  
+## Jeux vidéos
 
 - [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/)
 - [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/)
@@ -43,32 +43,32 @@
 - [JavaScript | Puissance 4  ](./sources/JS-Puissance4/)
 - [JavaScript - Phaser.js | Plateforme2D ](./sources/JS-PHASER-Plateforme2D/)
 
-## Web ==
+## Web
 
 - [Aria](./sources/WEB-Aria) - Intégration de la maquette
 - [Justice](./sources/WEB-Justice) - Intégration de la maquette
 - [Touché Restaurant](./sources/WEB-Touche-restaurant/) - Intégration de la maquette
 
-## Autres Projets == 
+## Autres Projets
 
 - [Ubuntu]()
 - [Système de gestion de contenu]()
 - [InMoov]()
 
 
-## Aides mémoires == 
+## Aides mémoires
 
-### Programmation
+#### Programmation
 [Design Pattern](./aide_memoire/) - [Héritage](./aide_memoire/) - [Trait](./aide_memoire/)
 
-### Languages
+#### Languages
  [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) - [HTML](./aide_memoire/) - [CSS/SCSS](./aide_memoire/) 
   
-### Frameworks 
+#### Frameworks 
 [Symfony](./aide_memoire/) - [Laravel](./aide_memoire/) - [Django](./aide_memoire/) - [RubyOnRails](./aide_memoire/)
 
-### Outils de versioning
+#### Outils de versioning
 [GIT](./aide_memoire/) - [SVN](./aide_memoire/)
 
-### Autres
+#### Autres
  [Composer](./aide_memoire/) - [Docker](./aide_memoire/) - [Makefile](./aide_memoire/) - [JetBrains](./aide_memoire/)  
