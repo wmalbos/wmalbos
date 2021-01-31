@@ -26,9 +26,6 @@
 - [JavaScript | Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
 
 
-- [C - Arduino | Chenillard LED](./sources/C-ARDUINO-ChenillardLED/)
-
-
 ## Algorithmique
 - [Parcours en profondeur](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
 
