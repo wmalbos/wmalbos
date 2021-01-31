@@ -1,4 +1,4 @@
-[Retourner au sommaire](../../README.md)
+[Retourner au sommaire](../../)
 
 # Algorithme du parcours en profondeur (Depth First Search)
 
