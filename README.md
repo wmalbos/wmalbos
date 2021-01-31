@@ -23,7 +23,7 @@
 - [LUA - Löve2D | TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/) - Création de Tilemaps
 - [LUA - Löve2D | TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/) - Déplacements et collisions d'un personnage sur une carte en brouillard de guerre
 
-- [JavaScript | Système solaire ](./sources/JS-SolarSystem/)
+- [JavaScript | Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
 
 
 - [C - Arduino | Chenillard LED](./sources/C-ARDUINO-ChenillardLED/)
