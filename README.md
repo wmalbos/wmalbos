@@ -14,7 +14,7 @@
 
 
 ### == Algorithmie ==  
-- [LUA | Depth First Search](./sources/LUA-DepthFirstSearch/README.md) - Génération d'un labyrinthe avec le DPS
+- [Depth First Search](sources/ALGO-DepthFirstSearch/README.md) - Génération d'un labyrinthe avec le DPS
 
 ### == Jeux vidéos ==  
 
