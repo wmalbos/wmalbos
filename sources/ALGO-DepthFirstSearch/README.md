@@ -1,6 +1,6 @@
 [Retourner au sommaire](../../README.md)
 
-## Labyrinthe DepthFirstSearch
+## Algorithme du parcours en profondeur (Depth First Search)
 
 L'algorithme du parcours en profondeur est un algorithme de parcours d'arbre. 
 Dans notre cas, il explore le graphe depuis un sommet initial jusqu'à avoir recouvers l'intégralité de l'arbre.
