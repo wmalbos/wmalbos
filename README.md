@@ -13,7 +13,7 @@
 - [C - Arduino | Chenillard LED](./sources/C-ARDUINO-ChenillardLED/)
 
 
-### == Algorithmie ==  
+### == Algorithmique ==  
 - [Depth First Search](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le DPS
 
 ### == Jeux vidéos ==  
@@ -27,19 +27,27 @@
 - [JavaScript | Puissance 4  ](./sources/JS-Puissance4/)
 - [JavaScript - Phaser.js | Plateforme2D ](./sources/JS-PHASER-Plateforme2D/)
 
+### == Web ==
 
 ### == Autres Projets == 
 
 - [Ubuntu]()
+- [Système de gestion de contenu]()
 
 
 ### == Aides mémoires == 
 
-#### - Languages
+##### Programmation
+[Design Pattern](./aide_memoire/) - [Héritage](./aide_memoire/) - [Trait](./aide_memoire/)
+
+##### Languages
  [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) 
   
-#### - Frameworks 
+##### Frameworks 
 [Symfony](./aide_memoire/) - [Laravel](./aide_memoire/) - [Django](./aide_memoire/) - [RubyOnRails](./aide_memoire/)
 
-#### - Outils de versioning
-[Git](./aide_memoire/) 
+##### Outils de versioning
+[GIT](./aide_memoire/) - [SVN](./aide_memoire/)
+
+##### Autres
+ [Composer](./aide_memoire/) - [Docker](./aide_memoire/) - [Makefile](./aide_memoire/) - [JetBrains](./aide_memoire/)  
