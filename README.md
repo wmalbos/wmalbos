@@ -1,4 +1,16 @@
 
+<p align="center">
+
+# Sommaire
+[Expérimentations](https://github.com/wmalbos/wmalbos#-exp%C3%A9rimentations-)  
+[Algorithmique](https://github.com/wmalbos/wmalbos#-algorithmique-)  
+[Jeux vidéos](https://github.com/wmalbos/wmalbos#-jeux-vid%C3%A9os-)  
+[Web](https://github.com/wmalbos/wmalbos#-web-)  
+[Autres Projets](https://github.com/wmalbos/wmalbos#-autres-projets-)  
+[Aides mémoires](https://github.com/wmalbos/wmalbos#-aides-m%C3%A9moires-)  
+
+</p>
+
 ### == Expérimentations ==  
 
 - [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
