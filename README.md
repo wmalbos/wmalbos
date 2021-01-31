@@ -42,7 +42,7 @@
 [Design Pattern](./aide_memoire/) - [Héritage](./aide_memoire/) - [Trait](./aide_memoire/)
 
 ##### Languages
- [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) 
+ [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) - [HTML](./aide_memoire/) - [CSS/SCSS](./aide_memoire/) 
   
 ##### Frameworks 
 [Symfony](./aide_memoire/) - [Laravel](./aide_memoire/) - [Django](./aide_memoire/) - [RubyOnRails](./aide_memoire/)
