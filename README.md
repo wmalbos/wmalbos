@@ -14,7 +14,7 @@
 
 
 ### == Algorithmique ==  
-- [Depth First Search](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le DPS
+- [Parcours en profondeur](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
 
 ### == Jeux vidéos ==  
 
