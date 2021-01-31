@@ -1,7 +1,7 @@
 [Retourner au sommaire](../../README.md)
 
 
-## ZombiesAttack 
+# ZombiesAttack 
 
 Cette partie de la formation permet d'expérimenter l'ajout de comportements à des zombies. En utilisant quelques
 élements de base de l'Intelligence Artificielle (Agents, Machines à états, ... ) les zombies sont capables de traquer le

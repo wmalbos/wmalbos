@@ -1,13 +1,13 @@
 [Retourner au sommaire](../../README.md)
 
-## Algorithme du parcours en profondeur (Depth First Search)
+# Algorithme du parcours en profondeur (Depth First Search)
 
 L'algorithme du parcours en profondeur est un algorithme de parcours d'arbre. 
 Dans notre cas, il explore le graphe depuis un sommet initial jusqu'à avoir recouvers l'intégralité de l'arbre.
 
 Il explore chaque sommet adjacent non visité jusqu'à atteindre un cul-de-sac ou un sommet déjà visité. Dans ce cas il revient au dernier sommet où l'on pouvais poursuivre un chemin, et recommence à visiter les sommets adjacents non marqué.  
 
-### Pseudo code
+## Pseudo code
 
 Initialement aucun sommet du Graphe G n'est marqué
 
@@ -26,7 +26,7 @@ parcoursProfondeur(Graphe G) :
             explorer(G, s)
 ```
 
-### Aperçu
+## Aperçu
 
 <p float="center">
 <img width="330" src="./docs/screen_2.jpg">
