@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Système Solaire</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            width: 100%;
+            height: 100%;
+
+            overflow: hidden;
+        }
+    </style>
+
+</head>
+<body>
+
+<canvas id="canvas"></canvas>
+
+<script>
+    var canvas = document.getElementById('canvas');
+    var ctx = canvas.getContext('2d');
+
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    window.addEventListener('resize', function () {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        draw();
+    });
+
+
+    let sun = new Image();
+    let moon = new Image();
+    let earth = new Image();
+
+    sun.src = "./images/sun.png";
+    moon.src = "./images/moon.png";
+    earth.src = "./images/earth.png";
+
+    function draw() {
+
+        var centerX = canvas.width / 2;
+        var centerY = canvas.height / 2;
+
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // Background
+        ctx.beginPath();
+        ctx.strokeStyle = 'rgba(0,0,0,0.1)';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.stroke();
+
+        // Soleil
+        ctx.drawImage(sun, centerX - 150, centerY - 150);
+
+        // Orbite de la Terre
+        ctx.beginPath();
+        ctx.strokeStyle = 'rgba(0,152,255,0.4)';
+        ctx.setLineDash([5]);
+        ctx.arc(centerX, centerY, 105, 0, Math.PI * 2);
+        ctx.stroke();
+
+        // Translate par default
+        ctx.save();
+        ctx.translate(centerX, centerY);
+
+        // Terre
+        var time = new Date();
+        ctx.rotate(((2 * Math.PI) / 60) * time.getSeconds() + ((2 * Math.PI) / 60000) * time.getMilliseconds());
+        ctx.translate(105, 0); // Terre sur l'orbite
+        ctx.drawImage(earth, -12, -12);
+
+        // Orbite de la Lune
+        ctx.beginPath();
+        ctx.strokeStyle = 'rgba(0,152,255,0.4)';
+        ctx.setLineDash([5]);
+        ctx.arc(0, 0, 30, 0, Math.PI * 2);
+        ctx.stroke();
+
+        // Lune
+        ctx.rotate(((2 * Math.PI) / 6) * time.getSeconds() + ((2 * Math.PI) / 6000) * time.getMilliseconds());
+        ctx.translate(0, 28.5);
+        ctx.drawImage(moon, -2, -2);
+
+        ctx.restore();
+
+        window.requestAnimationFrame(draw);
+    }
+
+    draw();
+</script>
+</body>
+</html>
