@@ -20,8 +20,8 @@
 - [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
 - [LUA - Löve2D | ZombiesAttack](./sources/LUA-LOVE2D-ZombiesAttack/) - Détection et Tracking du personnage par les zombies
 - [LUA - Löve2D | LunarLander](./sources/LUA-LOVE2D-LunarLander/) - Rotation, Gravité et Vélocité
-- [LUA - Löve2D | TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/)
-- [LUA - Löve2D | TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/)
+- [LUA - Löve2D | TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/) - Découverte des Tilemaps
+- [LUA - Löve2D | TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/) - Déplacements et collisions d'un personnage sur une carte en brouillard de guerre
 
 - [JavaScript | Système solaire ](./sources/JS-SolarSystem/)
 
