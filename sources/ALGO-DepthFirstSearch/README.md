@@ -1,4 +1,4 @@
-[Retourner au sommaire](https://github.com/wmalbos/wmalbos/README.md)
+[Retourner au sommaire](../../README.md)
 
 # Algorithme du parcours en profondeur (Depth First Search)
 
