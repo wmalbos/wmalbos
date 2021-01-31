@@ -31,10 +31,10 @@
 
 ## Jeux vidéos
 
-- [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/)
 - [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/)
-- [LUA - Löve2D | CasseBrique](LUA-LOVE2D-CasseBrique/)
-- [LUA - Löve2D | SpaceShooter](./sources/LUA-LOVE2D-SpaceShooter/)
+- [LUA - Löve2D | Casse-briques](LUA-LOVE2D-CasseBrique/)
+- [LUA - Löve2D | Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  
+- [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/)
 
 
 - [JavaScript | Puissance 4  ](./sources/JS-Puissance4/)
