@@ -32,7 +32,7 @@
 ## Jeux vidéos
 
 - [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/)
-- [LUA - Löve2D | Casse-briques](./LUA-LOVE2D-CasseBrique/)
+- [LUA - Löve2D | Casse-briques](./sources/LUA-LOVE2D-CasseBrique/)
 - [LUA - Löve2D | Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  
 - [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/)
 
