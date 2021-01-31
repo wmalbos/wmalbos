@@ -7,11 +7,9 @@ Dans notre cas, il explore le graphe depuis un sommet initial jusqu'à avoir rec
 
 Il explore chaque sommet adjacent non visité jusqu'à atteindre un cul-de-sac ou un sommet déjà visité. Dans ce cas il revient au dernier sommet où l'on pouvais poursuivre un chemin, et recommence à visiter les sommets adjacents non marqué.  
 
-[#Lua](https://github.com/lua/lua) [#Löve2D](https://github.com/love2d/love)
-
 ### Pseudo code
 
-Initialement aucun sommet du Graphe n'est marqué
+Initialement aucun sommet du Graphe G n'est marqué
 
 ```
 explorer(Graphe G, sommet s) :
@@ -27,6 +25,8 @@ parcoursProfondeur(Graphe G) :
         si s n'est pas marqué alors :
             explorer(G, s)
 ```
+
+### Aperçu
 
 <p float="center">
 <img width="330" src="./docs/screen_2.jpg">

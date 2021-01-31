@@ -1,31 +1,31 @@
 
 ### == Expérimentations ==  
 
-- [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/README.md) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
-- [LUA - Löve2D | ZombiesAttack](./sources/LUA-LOVE2D-ZombiesAttack/README.md) - Détection et Tracking du personnage par les zombies
-- [LUA - Löve2D | LunarLander](./sources/LUA-LOVE2D-LunarLander/README.md) - Rotation, Gravité et Vélocité
-- [LUA - Löve2D | TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/README.md)
-- [LUA - Löve2D | TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/README.md)
+- [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
+- [LUA - Löve2D | ZombiesAttack](./sources/LUA-LOVE2D-ZombiesAttack/) - Détection et Tracking du personnage par les zombies
+- [LUA - Löve2D | LunarLander](./sources/LUA-LOVE2D-LunarLander/) - Rotation, Gravité et Vélocité
+- [LUA - Löve2D | TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/)
+- [LUA - Löve2D | TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/)
 
-- [JavaScript | Système solaire ](./sources/JS-SolarSystem/README.md)
+- [JavaScript | Système solaire ](./sources/JS-SolarSystem/)
 
 
-- [C - Arduino | Chenillard LED](./sources/C-ARDUINO-ChenillardLED/README.md)
+- [C - Arduino | Chenillard LED](./sources/C-ARDUINO-ChenillardLED/)
 
 
 ### == Algorithmie ==  
-- [Depth First Search](sources/ALGO-DepthFirstSearch/README.md) - Génération d'un labyrinthe avec le DPS
+- [Depth First Search](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le DPS
 
 ### == Jeux vidéos ==  
 
-- [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/README.md)
-- [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/README.md)
-- [LUA - Löve2D | CasseBrique](LUA-LOVE2D-CasseBrique/README.md)
-- [LUA - Löve2D | SpaceShooter](./sources/LUA-LOVE2D-SpaceShooter/README.md)
+- [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/)
+- [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/)
+- [LUA - Löve2D | CasseBrique](LUA-LOVE2D-CasseBrique/)
+- [LUA - Löve2D | SpaceShooter](./sources/LUA-LOVE2D-SpaceShooter/)
 
 
-- [JavaScript | Puissance 4  ](./sources/JS-Puissance4/README.md)
-- [JavaScript - Phaser.js | Plateforme2D ](./sources/JS-PHASER-Plateforme2D/README.md)
+- [JavaScript | Puissance 4  ](./sources/JS-Puissance4/)
+- [JavaScript - Phaser.js | Plateforme2D ](./sources/JS-PHASER-Plateforme2D/)
 
 
 ### == Autres Projets == 
