@@ -1,4 +1,4 @@
-[Retourner au sommaire](../../)
+[Retourner au sommaire](https://github.com/wmalbos/wmalbos)
 
 # Algorithme du parcours en profondeur (Depth First Search)
 
