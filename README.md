@@ -4,6 +4,9 @@
 1.  [Algorithmique](https://github.com/wmalbos/wmalbos#algorithmique)  
 1.  [Jeux vidéos](https://github.com/wmalbos/wmalbos#jeux-vid%C3%A9os)  
 1.  [Web](https://github.com/wmalbos/wmalbos#web)  
+    1.  [Intégrations](https://github.com/wmalbos/wmalbos)
+    1.  [Applications](https://github.com/wmalbos/wmalbos)
+    1.  [Portfolio](https://github.com/wmalbos/wmalbos)
 1.  [Autres Projets](https://github.com/wmalbos/wmalbos#autres-projets)  
 1.  [Aides mémoires](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
     1.  [Programmation](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
@@ -42,9 +45,17 @@
 
 ## Web
 
+#### Intégrations
 - [Aria](./sources/WEB-Aria) - Intégration de la maquette
 - [Justice](./sources/WEB-Justice) - Intégration de la maquette
 - [Touché Restaurant](./sources/WEB-Touche-restaurant/) - Intégration de la maquette
+
+#### Applications
+
+
+#### Portfolio
+- [Classique](./sources/PORTFOLIO-Classique) - Développé en 2018, utilisation de fichiers JSON pour simuler une base de donnée
+
 
 ## Autres Projets
 
