@@ -1,14 +1,15 @@
 
-<p align="center">
+
 
 # Sommaire
-[Expérimentations](https://github.com/wmalbos/wmalbos#-exp%C3%A9rimentations-)  
-[Algorithmique](https://github.com/wmalbos/wmalbos#-algorithmique-)  
-[Jeux vidéos](https://github.com/wmalbos/wmalbos#-jeux-vid%C3%A9os-)  
-[Web](https://github.com/wmalbos/wmalbos#-web-)  
-[Autres Projets](https://github.com/wmalbos/wmalbos#-autres-projets-)  
-[Aides mémoires](https://github.com/wmalbos/wmalbos#-aides-m%C3%A9moires-)  
 
+<p align="center">
+<a href="https://github.com/wmalbos/wmalbos#-exp%C3%A9rimentations-">Expérimentations</a><br/>
+<a href="https://github.com/wmalbos/wmalbos#-algorithmique-">Algorithmique</a><br/>
+<a href="https://github.com/wmalbos/wmalbos#-jeux-vid%C3%A9os-">Jeux vidéos</a><br/>
+<a href="https://github.com/wmalbos/wmalbos#-web-">Web</a><br/>
+<a href="https://github.com/wmalbos/wmalbos#-autres-projets-">Autres Projets</a><br/>
+<a href="https://github.com/wmalbos/wmalbos#-aides-m%C3%A9moires-">Aides mémoires</a><br/>
 </p>
 
 ## == Expérimentations ==  
