@@ -1,5 +1,8 @@
 
 # Table des matières
+
+<img align="right" width="600" src="./docs/screen_1.png">
+
 1.  [Expérimentations](https://github.com/wmalbos/wmalbos#exp%C3%A9rimentations)  
 1.  [Algorithmique](https://github.com/wmalbos/wmalbos#algorithmique)  
 1.  [Jeux vidéos](https://github.com/wmalbos/wmalbos#jeux-vid%C3%A9os)  
@@ -17,8 +20,6 @@
 
 <br/>
 <br/>
-
-<img align="right" width="600" src="./docs/screen_1.png">
 
 ## Expérimentations
 
