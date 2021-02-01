@@ -18,10 +18,7 @@
 <br/>
 <br/>
 
-<p float="right">
-<img width="600" src="./docs/screen_1.png">
-</p>
-
+<img align="right" width="600" src="./docs/screen_1.png">
 
 ## Expérimentations
 
