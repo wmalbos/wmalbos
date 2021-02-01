@@ -34,10 +34,10 @@
 
 ## Jeux vidéos
 
-- [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/)
-- [LUA - Löve2D | Casse-briques](./sources/LUA-LOVE2D-CasseBrique/)
-- [LUA - Löve2D | Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  
-- [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/)
+- [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
+- [LUA - Löve2D | Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
+- [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
+- [LUA - Löve2D | Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - jeu vidéo de type Shoot'em up
 
 
 - [JavaScript | Puissance 4  ](./sources/JS-Puissance4/)

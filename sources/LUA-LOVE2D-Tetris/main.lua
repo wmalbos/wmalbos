@@ -211,7 +211,7 @@ local menuSin = 0
 function initBag()
     bag = {}
     for i = 1, #tetros do
-        for j = 1, 8 do
+        for j = 1, 5 do
             table.insert(bag, i)
         end
     end
@@ -386,7 +386,7 @@ function startGame()
     -- Initialisation des variables
     score = 0
     level = 1
-    total_lines = 9
+    total_lines = 0
 
     drop_speed = .3
     timer_drop = 0
