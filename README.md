@@ -18,6 +18,11 @@
 <br/>
 <br/>
 
+<p float="right">
+<img width="600" src="./docs/screen_1.png">
+</p>
+
+
 ## Expérimentations
 
 - [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
