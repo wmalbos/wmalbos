@@ -177,6 +177,9 @@ current_tetros.id = 1
 current_tetros.rotation = 1
 current_tetros.position = { x = 0, y = 0 }
 
+-- Sac
+local bag = {}
+
 -- Options du jeu
 local drop_speed
 local timer_drop
@@ -186,21 +189,44 @@ local debug = true
 local game_state
 local score
 local level
+local level_max = 20
 local total_lines
 
 -- Sons
 local sndMusicMenu
 local sndMusicGame
 local sndMusicGameOver
-local sndSoundLine
+local sndLine
+local sndLevel
 
 -- Polices
 local fontMenu
+local fontScore
 local fontPlay
+
+-- Menu
+local menuSin = 0
+
+-- Gestion du sac de pièces
+function initBag()
+    bag = {}
+    for i = 1, #tetros do
+        for j = 1, 8 do
+            table.insert(bag, i)
+        end
+    end
+end
 
 -- Nouvelle pièce de jeu
 function spawnShape()
-    local new_shape_id = math.random(1, 6)
+    -- On retire la premi!re pièce du sac
+    local new_bag = math.random(1, #bag)
+    local new_shape_id = bag[new_bag]
+    table.remove(bag, new_bag)
+    -- Remplissage du sac
+    if #bag == 0 then
+        initBag()
+    end
 
     current_tetros.id = new_shape_id
     current_tetros.rotation = 1
@@ -208,6 +234,10 @@ function spawnShape()
     local tetros_width = #tetros[current_tetros.id].shape[current_tetros.rotation][1]
     current_tetros.position.x = (math.floor((grid.width - tetros_width) / 2)) + 1
     current_tetros.position.y = 1
+
+    if collide() then
+        startGameOver()
+    end
 end
 
 -- Affichage d'un tetrominos
@@ -350,12 +380,13 @@ end
 
 -- Initialisation du jeu
 function startGame()
+    love.graphics.setFont(fontScore)
     game_state = "play"
 
     -- Initialisation des variables
     score = 0
     level = 1
-    total_lines = 0
+    total_lines = 9
 
     drop_speed = .3
     timer_drop = 0
@@ -367,20 +398,39 @@ function startGame()
 
     -- Initialisation de la grille et des pièces
     initGrid()
+    initBag()
     spawnShape()
-
-    love.graphics.setFont(fontPlay)
 end
 
 -- Initialisation du menu
 function startMenu()
+    love.graphics.setFont(fontMenu)
     game_state = "menu"
 
     sndMusicGameOver:stop()
     sndMusicGame:stop()
     sndMusicMenu:play()
+end
 
+-- Initialisation du GameOver
+function startGameOver()
     love.graphics.setFont(fontMenu)
+    game_state = "game_over"
+
+    sndMusicGame:stop()
+    sndMusicGameOver:play()
+end
+
+-- Gestion de l'augmentation des niveaux
+function manage_levels()
+    local new_level = math.floor(total_lines / 10) + 1
+    if new_level <= level_max then
+        if new_level ~= level then
+            sndLevel:play()
+            level = new_level
+            drop_speed = drop_speed - 0.08
+        end
+    end
 end
 
 -- Mise à jour des données de jeu
@@ -421,13 +471,20 @@ function updateGame(dt)
         end
     end
 
+    if nb_lines > 0 then
+        sndLine:play()
+    end
+
     -- Modification du score
     calculateScoreWithLines(nb_lines)
+    manage_levels()
 end
 
 -- Mise à jour des données du menu
 function updateMenu(dt)
     initGrid()
+
+    menuSin = menuSin + 5 * 30 * dt
 end
 
 -- Détection des touches du jeu
@@ -488,7 +545,13 @@ end
 
 -- Détection des touches du menu
 function inputMenu(key)
+    if key == "return" then
+        startGame()
+    end
+end
 
+-- Détection des touches lors du GameOver
+function inputGameOver(key)
     if key == "return" then
         startGame()
     end
@@ -500,10 +563,68 @@ function drawGame()
     local color = tetros[current_tetros.id].color
 
     drawShape(shape, color, current_tetros.position.x, current_tetros.position.y)
+
+    local position_y = 100
+    local sHeight = fontScore:getHeight("X") -- Pour ce décaler d'un caractère en hauteur
+    love.graphics.setColor(1, 1, 1)
+    love.graphics.print("SCORE", 50, position_y)
+    position_y = position_y + sHeight
+    love.graphics.print(tostring(score), 50, position_y)
+    position_y = position_y + sHeight
+    position_y = position_y + sHeight
+    love.graphics.setColor(1, 1, 1)
+    love.graphics.print("LEVEL", 50, position_y)
+    position_y = position_y + sHeight
+    love.graphics.print(tostring(level), 50, position_y)
+    position_y = position_y + sHeight
+    position_y = position_y + sHeight
+    love.graphics.setColor(1, 1, 1)
+    love.graphics.print("LINES", 50, position_y)
+    position_y = position_y + sHeight
+    love.graphics.print(tostring(total_lines), 50, position_y)
 end
 
 -- Affichage du menu
 function drawMenu()
+    local color
+    local id_color = 1
+    local sMessage = "Tetris"
+    local sWidth = fontMenu:getWidth(sMessage)
+    local sHeight = fontMenu:getHeight(sMessage)
+    local x = (window.width - sWidth) / 2
+    local y = 0
+
+    -- Affichage de la courbe sinusoidale
+    for column = 1, sMessage:len() do
+        color = tetros[id_color].color
+        love.graphics.setColor(color[1], color[2], color[3])
+        local char = string.sub(sMessage, column, column)
+        y = math.sin((x + menuSin) / 50) * 30 -- 30 = amplitude
+        love.graphics.print(char, x, y + (window.height - sHeight) / 3)
+        x = x + fontMenu:getWidth(char)
+        id_color = id_color + 1
+        if id_color > #tetros then
+            id_color = 1
+        end
+    end
+
+    -- Afficahge des instructions
+    sMessage = "PRESS ENTER"
+    sWidth = fontMenu:getWidth(sMessage)
+    sHeight = fontMenu:getHeight(sMessage)
+
+    love.graphics.setColor(255, 255, 255)
+    love.graphics.print(sMessage, (window.width - sWidth) / 2, (window.height - sHeight) / 1.5)
+end
+
+-- Afficahge de l'écran "GameOver"
+function drawGameOver()
+    local sMessage = "GAME OVER"
+    local sWidth = fontMenu:getWidth(sMessage)
+    local sHeight = fontMenu:getHeight(sMessage)
+
+    love.graphics.setColor(255, 255, 255)
+    love.graphics.print(sMessage, (window.width - sWidth) / 2, (window.height - sHeight) / 2)
 end
 
 function love.load()
@@ -519,6 +640,7 @@ function love.load()
 
     -- Polices
     fontMenu = love.graphics.newFont("assets/fonts/blocked.ttf", 50)
+    fontScore = love.graphics.newFont("assets/fonts/blocked.ttf", 30)
     fontPlay = love.graphics.newFont("assets/fonts/blocked.ttf", 30)
 
     -- Sons
@@ -534,6 +656,12 @@ function love.load()
     sndMusicGameOver:setLooping(true)
     sndMusicGameOver:setVolume(.1)
 
+    sndLine = love.audio.newSource("assets/sounds/line.wav", "static")
+    sndLine:setVolume(.5)
+
+    sndLevel = love.audio.newSource("assets/sounds/levelup.wav", "static")
+    sndLevel:setVolume(.5)
+
     -- Touches
     love.keyboard.setKeyRepeat(true)
 
@@ -545,6 +673,7 @@ function love.update(dt)
         updateMenu(dt)
     elseif game_state == "play" then
         updateGame(dt)
+    elseif game_state == "game_over" then
     end
 end
 
@@ -555,6 +684,8 @@ function love.draw()
         drawMenu()
     elseif game_state == "play" then
         drawGame()
+    elseif game_state == "game_over" then
+        drawGameOver()
     end
 end
 
@@ -563,5 +694,7 @@ function love.keypressed(key)
         inputMenu(key)
     elseif game_state == "play" then
         inputGame(key)
+    elseif game_state == "game_over" then
+        inputGameOver(key)
     end
 end
