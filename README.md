@@ -66,9 +66,9 @@
 
 - [Site vitrine]() - Site vitrine de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS]()
 - [eShop]() - Boutique de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS]()
-- [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisé de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement.
-- [Ubuntu]()
-- [InMoov]()
+- [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisé de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement tout en restant très abordable pour des clients n'apréciant pas l'informatique.
+- [Ubuntu]() - Simulation d'un système d'exploitation au format web
+- [InMoov]() - Ce projet me permet de réaliser un rêve, construire un robot grandeur nature, tout en apprenant la Robotique grâce au projet [InMoov](https://inmoov.fr/)
 
 
 ## Aides mémoires
