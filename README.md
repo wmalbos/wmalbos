@@ -64,8 +64,10 @@
 
 ## Autres Projets
 
+- [Site vitrine]() - Site vitrine de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS]()
+- [eShop]() - Boutique de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS]()
+- [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisé de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement.
 - [Ubuntu]()
-- [Système de gestion de contenu]()
 - [InMoov]()
 
 
