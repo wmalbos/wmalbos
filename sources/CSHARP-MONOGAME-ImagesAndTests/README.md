@@ -1,6 +1,6 @@
 [Retourner au sommaire](../../README.md)
 
-# ImagesAndMove
+# ImagesAndTests
 
 Cette partie de la formation permet d'expérimenter l'ajout d'images, leurs déplacements à l'écran ainsi que l'application de déformations à l'aide du language C# et du framework Monogame.
 
