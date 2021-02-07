@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ov7pGKrX+hCwhgLH9Ox0t0zJQrSpPu1wdAxJOjpRcDks+3TYSrc0eoCJrNTx73ZU/RBYSroH4beSuF1MSf1LvQ==",
+  "success": true,
+  "projectFilePath": "/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-MONOGAME-ImagesAndMove/ImageAndTests/ImageAndTests/ImageAndTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/wmalbos/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/wmalbos/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
