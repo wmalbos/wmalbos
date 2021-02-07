@@ -31,8 +31,8 @@
 - [LUA - Löve2D | TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/) - Création de Tilemaps
 - [LUA - Löve2D | TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/) - Déplacements et collisions d'un personnage sur une carte en brouillard de guerre
 
-- [C# - Monogame | ImagesAndTests](./sources/CSHARP-MONOGAME-ImageAndTests/)  - Insertion d'images et déformations
-- [C# - Monogame | HorizontalScrollingParallax](./sources/CSHARP-MONOGAME-ImagesAndTests/) - Scrolling horizontal infinie des images de fond avec effets parallax
+- [C# - Monogame | ImagesAndTests](./sources/CSHARP-MONOGAME-ImagesAndTests/)  - Insertion d'images et déformations
+- [C# - Monogame | HorizontalScrollingParallax](./sources/CSHARP-MONOGAME-HorizontalScrollingParallax/) - Scrolling horizontal infinie des images de fond avec effets parallax
 
 - [JavaScript | Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
 
