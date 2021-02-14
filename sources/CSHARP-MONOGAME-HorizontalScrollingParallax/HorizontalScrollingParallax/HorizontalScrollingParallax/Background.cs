@@ -5,6 +5,8 @@ namespace HorizontalScrollingParallax
 {
     public class Background
     {
+    
+    
         private Vector2 position;
         private Texture2D image;
         private float speed;

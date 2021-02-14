@@ -1,0 +1,15 @@
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/bin/Debug/net5.0/RPG.deps.json
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/bin/Debug/net5.0/RPG.runtimeconfig.json
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/bin/Debug/net5.0/RPG.runtimeconfig.dev.json
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/bin/Debug/net5.0/RPG.dll
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/bin/Debug/net5.0/ref/RPG.dll
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/bin/Debug/net5.0/RPG.pdb
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.csprojAssemblyReference.cache
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.AssemblyInfoInputs.cache
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.AssemblyInfo.cs
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.csproj.CoreCompileInputs.cache
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.dll
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/ref/RPG.dll
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.pdb
+/Users/wmalbos/Hosts/wmalbos/sources/CSHARP-TerminalFights/RPG/RPG/obj/Debug/net5.0/RPG.genruntimeconfig.cache

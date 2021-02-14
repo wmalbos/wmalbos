@@ -27,6 +27,7 @@
 
 - [C# - Monogame | HorizontalScrollingParallax](./sources/CSHARP-MONOGAME-HorizontalScrollingParallax/) - Scrolling horizontal infinie des images de fond avec effets parallax
 - [C# - Monogame | ImagesAndTests](./sources/CSHARP-MONOGAME-ImagesAndTests/)  - Insertion d'images et déformations
+- [C# | Combats de terminal - POO](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
   
 
 - [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
