@@ -25,18 +25,24 @@
 
 ## Expérimentations
 
-- [C# - Monogame | HorizontalScrollingParallax](./sources/CSHARP-MONOGAME-HorizontalScrollingParallax/) - Scrolling horizontal infinie des images de fond avec effets parallax
-- [C# - Monogame | ImagesAndTests](./sources/CSHARP-MONOGAME-ImagesAndTests/)  - Insertion d'images et déformations
-- [C# | Combats de terminal - POO](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
-  <br/><br/>
-- [LUA - Löve2D | InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
-- [LUA - Löve2D | ZombiesAttack](./sources/LUA-LOVE2D-ZombiesAttack/) - Détection et Tracking du personnage par les zombies
-- [LUA - Löve2D | LunarLander](./sources/LUA-LOVE2D-LunarLander/) - Rotation, Gravité et Vélocité
-- [LUA - Löve2D | TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/) - Déplacements et collisions d'un personnage sur une carte en brouillard de guerre
-- [LUA - Löve2D | TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/) - Création de Tilemaps
-  <br/><br/>
-- [PHP | Création d'un Framework MVC](./sources/PHP-CoreMVC/) - Réalisation d'une structure MVC en PHP
-  <br/><br/>
+#### C# et MonoGame
+- [HorizontalScrollingParallax](./sources/CSHARP-MONOGAME-HorizontalScrollingParallax/) - Scrolling horizontal infinie des images de fond avec effets parallax
+- [ImagesAndTests](./sources/CSHARP-MONOGAME-ImagesAndTests/)  - Insertion d'images et déformations
+
+#### C# 
+- [POO - Combats de terminal](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
+
+#### LUA et Löve2D
+- [InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
+- [ZombiesAttack](./sources/LUA-LOVE2D-ZombiesAttack/) - Détection et Tracking du personnage par les zombies
+- [LunarLander](./sources/LUA-LOVE2D-LunarLander/) - Rotation, Gravité et Vélocité
+- [TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/) - Déplacements et collisions d'un personnage sur une carte en brouillard de guerre
+- [TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/) - Création de Tilemaps
+
+#### PHP
+- [Création d'un Framework MVC](./sources/PHP-CoreMVC/) - Réalisation d'une structure MVC en PHP
+
+#### JavaScript
 - [JavaScript | Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
 
 
@@ -45,17 +51,20 @@
 
 ## Jeux vidéos
 
-- [C# - Monogame | Dungeon Crawler](./sources/)  - Jeux vidéo en fausse 3D
-  
+#### C# et MonoGame
+- [Dungeon Crawler](./sources/)  - Jeux vidéo en fausse 3D
 
-- [LUA - Löve2D | Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up
-- [LUA - Löve2D | Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
-- [LUA - Löve2D | Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
-- [LUA - Löve2D | Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
+#### LUA et Löve2D
+- [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up
+- [Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
+- [Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
+- [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
 
+#### JavaScript et Phaser.js
+- [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/)
 
-- [JavaScript | Puissance 4  ](./sources/JS-Puissance4/)
-- [JavaScript - Phaser.js | Plateforme2D ](./sources/JS-PHASER-Plateforme2D/)
+#### JavaScript
+- [Puissance 4  ](./sources/JS-Puissance4/)
 
 ## Web
 
