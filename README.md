@@ -65,6 +65,7 @@
 
 #### JavaScript
 - [Puissance 4  ](./sources/JS-Puissance4/)
+- [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
 
 ## Web
 
