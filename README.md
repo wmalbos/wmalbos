@@ -50,10 +50,10 @@
 ## Jeux vidéos
 
 #### C# et MonoGame
-- [Dungeon Crawler](./sources/)  - Jeux vidéo en fausse 3D
+- [Dungeon Crawler](./sources/)  - Jeux vidéo en fausse 3D (bientôt)
 
 #### LUA et Löve2D
-- [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up
+- [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up (bientôt)
 - [Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
 - [Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
 - [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
