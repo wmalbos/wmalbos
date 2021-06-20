@@ -59,7 +59,7 @@
 - [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
 
 #### JavaScript et Phaser.js
-- [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/)
+- [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/) (bientôt)
 
 #### JavaScript
 - [Puissance 4  ](./sources/JS-Puissance4/) (bientôt)
@@ -81,11 +81,11 @@
 
 ## Autres Projets
 
-- [Site vitrine]() - Site vitrine de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS]().
-- [eShop]() - Boutique de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS]().
-- [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisé de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement tout en restant très abordable pour des clients n'apréciant pas l'informatique.
-- [Ubuntu]() - Simulation d'un système d'exploitation au format web
-- [InMoov]() - Ce projet me permet de réaliser un rêve, construire un robot grandeur nature, tout en apprenant la Robotique grâce à [InMoov](https://inmoov.fr/)
+- [Site vitrine]() - Site vitrine de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS](). (bientôt)
+- [eShop]() - Boutique de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS](). (bientôt)
+- [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisé de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement tout en restant très abordable pour des clients n'apréciant pas l'informatique. (bientôt)
+- [Ubuntu]() - Simulation d'un système d'exploitation au format web (bientôt)
+- [InMoov]() - Ce projet me permet de réaliser un rêve, construire un robot grandeur nature, tout en apprenant la Robotique grâce à [InMoov](https://inmoov.fr/) (bientôt)
 
 
 ## Aides mémoires
