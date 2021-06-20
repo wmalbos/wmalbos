@@ -39,8 +39,6 @@
 - [TilesMoveAndCrash](./sources/LUA-LOVE2D-TilesMoveAndCrash/) - Déplacements et collisions d'un personnage sur une carte en brouillard de guerre
 - [TileSheetMap](./sources/LUA-LOVE2D-TileSheetMap/) - Création de Tilemaps
 
-#### PHP
-- [Création d'un Framework MVC](./sources/PHP-CoreMVC/) - Réalisation d'une structure MVC en PHP
 
 #### JavaScript
 - [JavaScript | Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
@@ -64,15 +62,15 @@
 - [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/)
 
 #### JavaScript
-- [Puissance 4  ](./sources/JS-Puissance4/)
+- [Puissance 4  ](./sources/JS-Puissance4/) (bientôt)
 - [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
 
 ## Web
 
 #### Intégrations
-- [Aria](./sources/WEB-Aria) - Intégration de la maquette
-- [Justice](./sources/WEB-Justice) - Intégration de la maquette
-- [Touché Restaurant](./sources/WEB-Touche-restaurant/) - Intégration de la maquette
+- [Aria](./sources/WEB-Aria) - Intégration de la maquette (bientôt)
+- [Justice](./sources/WEB-Justice) - Intégration de la maquette (bientôt)
+- [Touché Restaurant](./sources/WEB-Touche-restaurant/) - Intégration de la maquette (bientôt)
 
 #### Applications
 
