@@ -46,6 +46,7 @@
 
 ## Algorithmique
 - [Parcours en profondeur](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
+- [Courbes de Béziers](https://github.com/wmalbos/Bezier-curves) - Génération de courbes de Béziers
 
 ## Jeux vidéos
 
