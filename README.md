@@ -74,12 +74,8 @@
 ## Web
 
 #### Intégrations
-- [Aria](./sources/WEB-Aria) - Intégration de la maquette (bientôt)
-- [Justice](./sources/WEB-Justice) - Intégration de la maquette (bientôt)
-- [Touché Restaurant](./sources/WEB-Touche-restaurant/) - Intégration de la maquette (bientôt)
 
 #### Applications
-
 
 #### Portfolio
 - [Classique](./sources/PORTFOLIO-Classique) - Développé en 2018, utilisation de fichiers JSON pour simuler une base de donnée
