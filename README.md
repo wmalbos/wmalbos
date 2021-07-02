@@ -6,12 +6,13 @@
 1.  [Expérimentations](https://github.com/wmalbos/wmalbos#exp%C3%A9rimentations)  
 1.  [Algorithmique](https://github.com/wmalbos/wmalbos#algorithmique)  
 1.  [Jeux vidéos](https://github.com/wmalbos/wmalbos#jeux-vid%C3%A9os)  
-1.  [Web](https://github.com/wmalbos/wmalbos#web)  
+1.  [Logiciels](https://github.com/wmalbos/wmalbos#logiciels)    
+3.  [Web](https://github.com/wmalbos/wmalbos#web)  
     1.  [Intégrations](https://github.com/wmalbos/wmalbos#int%C3%A9grations)
     1.  [Applications](https://github.com/wmalbos/wmalbos#applications)
     1.  [Portfolio](https://github.com/wmalbos/wmalbos#portfolio)
-1.  [Autres Projets](https://github.com/wmalbos/wmalbos#autres-projets)  
-1.  [Aides mémoires](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
+4.  [Autres Projets](https://github.com/wmalbos/wmalbos#autres-projets)  
+5.  [Aides mémoires](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
     1.  [Programmation](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
     1.  [Languages](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
     1.  [Frameworks](https://github.com/wmalbos/wmalbos#aides-m%C3%A9moires)
@@ -67,7 +68,7 @@
 - [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
 
 ## Logiciels
-- [Books scraping](https://github.com/wmalbos/Books-scraping) - Récupération de données depuis un site internet de test
+- [Books scraping](https://github.com/wmalbos/Books-scraping) - Scraping de données depuis un site internet
 
 
 ## Web
