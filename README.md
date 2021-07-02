@@ -66,6 +66,10 @@
 - [Puissance 4  ](./sources/JS-Puissance4/) (bientôt)
 - [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
 
+## Logiciels
+- [Books scraping](https://github.com/wmalbos/Books-scraping) - Récupération de données depuis un site internet de test
+
+
 ## Web
 
 #### Intégrations
