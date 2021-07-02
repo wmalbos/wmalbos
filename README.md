@@ -103,7 +103,7 @@
 [LUA](./aide_memoire/LANGUAGES-LUA/README.md) -  [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) - [HTML](./aide_memoire/) - [CSS/SCSS](./aide_memoire/) 
   
 #### Frameworks 
-[Symfony](./aide_memoire/) - [Laravel](./aide_memoire/) - [Django](./aide_memoire/) - [RubyOnRails](./aide_memoire/)
+[Symfony](./aide_memoire/) - [Django](./aide_memoire/) - [RubyOnRails](./aide_memoire/)
 
 #### Outils de versioning
 [GIT](./aide_memoire/) - [SVN](./aide_memoire/)
