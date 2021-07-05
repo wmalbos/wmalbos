@@ -32,6 +32,7 @@
 
 #### C# 
 - [POO - Combats de terminal](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
+- [RPG2D - Peaceful village](https://github.com/wmalbos/RPG2D-Peaceful-village) - Démo d'un jeu 2D sous Unity (quêtes, combats, boutique, ...)
 
 #### LUA et Löve2D
 - [InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
