@@ -26,13 +26,17 @@
 
 ## Expérimentations
 
+
+#### C# 
+- [POO - Combats de terminal](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
+
 #### C# et MonoGame
 - [HorizontalScrollingParallax](./sources/CSHARP-MONOGAME-HorizontalScrollingParallax/) - Scrolling horizontal infinie des images de fond avec effets parallax
 - [ImagesAndTests](./sources/CSHARP-MONOGAME-ImagesAndTests/)  - Insertion d'images et déformations
 
-#### C# 
-- [POO - Combats de terminal](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
+#### C# et Unity
 - [RPG2D - Peaceful village](https://github.com/wmalbos/RPG2D-Peaceful-village) - Démo d'un jeu 2D sous Unity (quêtes, combats, boutique, ...)
+
 
 #### LUA et Löve2D
 - [InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
@@ -43,7 +47,7 @@
 
 
 #### JavaScript
-- [JavaScript | Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
+- [Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
 
 
 ## Algorithmique
@@ -55,18 +59,18 @@
 #### C# et MonoGame
 - [Dungeon Crawler](./sources/)  - Jeux vidéo en fausse 3D (bientôt)
 
+#### JavaScript
+- [Puissance 4](./sources/JS-Puissance4/) (bientôt)
+- [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
+- 
+#### JavaScript et Phaser.js
+- [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/) (bientôt)
+
 #### LUA et Löve2D
 - [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up (bientôt)
 - [Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
 - [Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
 - [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
-
-#### JavaScript et Phaser.js
-- [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/) (bientôt)
-
-#### JavaScript
-- [Puissance 4  ](./sources/JS-Puissance4/) (bientôt)
-- [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
 
 ## Logiciels
 - [Books scraping](https://github.com/wmalbos/Books-scraping) - Scraping de données depuis un site internet
