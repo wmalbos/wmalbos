@@ -36,6 +36,8 @@
 #### C# et Unity
 - [RPG2D - Peaceful village](https://github.com/wmalbos/RPG2D-Peaceful-village) - Démo d'un jeu 2D sous Unity (quêtes, combats, boutique, ...)
 
+#### LUA 
+- [Courbes de Béziers](https://github.com/wmalbos/Bezier-curves) - Génération de courbes de Béziers
 
 #### LUA et Löve2D
 - [InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
@@ -51,7 +53,6 @@
 
 ## Algorithmique
 - [Parcours en profondeur](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
-- [Courbes de Béziers](https://github.com/wmalbos/Bezier-curves) - Génération de courbes de Béziers
 
 ## Jeux vidéos
 
