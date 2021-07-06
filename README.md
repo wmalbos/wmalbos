@@ -27,7 +27,7 @@
 - [RPG2D - Pygamon](https://github.com/wmalbos/RPG2D-Pygamon) - Démo d'un jeu 2D avec le framework PyGame
 
 #### C# 
-- [POO - Combats de terminal](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
+- [Combats de terminal](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
 
 #### C# et MonoGame
 - [HorizontalScrollingParallax](./sources/CSHARP-MONOGAME-HorizontalScrollingParallax/) - Scrolling horizontal infinie des images de fond avec effets parallax
@@ -59,18 +59,18 @@
 #### C# et MonoGame
 - [Dungeon Crawler](./sources/)  - Jeux vidéo en fausse 3D (bientôt)
 
+#### Lua et Löve2D
+- [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up (bientôt)
+- [Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
+- [Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
+- [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
+
 #### JavaScript
 - [Puissance 4](./sources/JS-Puissance4/) (bientôt)
 - [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
 - 
 #### JavaScript et Phaser.js
 - [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/) (bientôt)
-
-#### LUA et Löve2D
-- [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up (bientôt)
-- [Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
-- [Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
-- [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
 
 ## Logiciels
 - [Books scraping](https://github.com/wmalbos/Books-scraping) - Scraping de données depuis un site internet
@@ -94,7 +94,7 @@
 [Design Pattern](./aide_memoire/) - [Héritage](./aide_memoire/) - [Trait](./aide_memoire/)
 
 #### Languages
-[LUA](./aide_memoire/LANGUAGES-LUA/README.md) -  [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) - [HTML](./aide_memoire/) - [CSS/SCSS](./aide_memoire/) 
+[Lua](./aide_memoire/LANGUAGES-LUA/README.md) -  [C](./aide_memoire/) - [C++](./aide_memoire/) - [C#](./aide_memoire/) - [Java](./aide_memoire/) - [PHP](./aide_memoire/) - [Python](./aide_memoire/) - [Ruby](./aide_memoire/) - [JavaScript](./aide_memoire/) - [HTML](./aide_memoire/) - [SCSS](./aide_memoire/) 
   
 #### Frameworks 
 [Symfony](./aide_memoire/) - [Django](./aide_memoire/) - [RubyOnRails](./aide_memoire/)
