@@ -75,7 +75,7 @@
 - [Pong](https://github.com/wmalbos/Game-Pong) - Jeu vidéo d'arcade sortie en 1972
 
 #### JavaScript
-- [Puissance 4](./sources/JS-Puissance4/) (bientôt)
+- [Puissance 4](https://github.com/wmalbos/Game-puissance4) - (bientôt)
 - [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
 
 #### JavaScript et Phaser.js
