@@ -52,6 +52,9 @@
 - [Ubuntu]() - Simulation de système d'exploitation au format web (bientôt)
 
 ## Algorithmique
+- [Trie rapide](https://github.com/wmalbos/Trie-rapide) - Algorithme de trie "Quicksort" (bientôt)
+- [Trie fusion](https://github.com/wmalbos/Trie-fusion) - Algorithme de trie par fusion (bientôt)
+- [Trie à bulles](https://github.com/wmalbos/Trie-bulles) - Algorithme de tri par propagation (bientôt)
 - [Parcours de graphe - Largeur](https://github.com/wmalbos/Parcours-graphe-largeur) - Algorithme de parcours d'un graphe en largeur (bientôt)
 - [Parcours de graphe - Profondeur (JavaScript)](https://github.com/wmalbos/Parcours-graphe-profondeur) - Algorithme de parcours en profondeur d'un graphe (bientôt)
 - [Parcours de graphe - Profondeur (Lua)](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
