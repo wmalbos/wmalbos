@@ -69,10 +69,10 @@
 - [Dungeon Crawler](./sources/)  - Jeux vidéo en fausse 3D (bientôt)
 
 #### Lua et Löve2D
-- [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up (bientôt)
+- [Space shooter](https://github.com/wmalbos/Game-space-shooter)  - Jeu vidéo de type Shoot'em up (bientôt)
 - [Tetris](https://github.com/wmalbos/Game-Tetris) - Jeu vidéo de puzzle sortie en 1984
 - [Casse-briques](https://github.com/wmalbos/Game-CasseBrique) - Jeu vidéo arcade sortie en 1975
-- [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
+- [Pong](https://github.com/wmalbos/Game-Pong) - Jeu vidéo d'arcade sortie en 1972
 
 #### JavaScript
 - [Puissance 4](./sources/JS-Puissance4/) (bientôt)
