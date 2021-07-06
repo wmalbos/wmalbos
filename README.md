@@ -36,10 +36,10 @@
 #### C# et Unity
 - [RPG2D - Peaceful village](https://github.com/wmalbos/RPG2D-Peaceful-village) - Démo d'un jeu 2D sous Unity (quêtes, combats, boutique, ...)
 
-#### LUA 
+#### Lua 
 - [Courbes de Béziers](https://github.com/wmalbos/Bezier-curves) - Génération de courbes de Béziers
 
-#### LUA et Löve2D
+#### Lua et Löve2D
 - [InfiniteMusicRunner](./sources/LUA-LOVE2D-InfiniteMusicRunner/) -  Mixeur de sons et Gameplay de type "Infinite Runner" en scrolling horizontal 
 - [ZombiesAttack](./sources/LUA-LOVE2D-ZombiesAttack/) - Détection et Tracking du personnage par les zombies
 - [LunarLander](./sources/LUA-LOVE2D-LunarLander/) - Rotation, Gravité et Vélocité
