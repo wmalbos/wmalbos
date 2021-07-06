@@ -70,14 +70,14 @@
 
 #### Lua et Löve2D
 - [Space shooter](./sources/LUA-LOVE2D-SpaceShooter/)  - Jeu vidéo de type Shoot'em up (bientôt)
-- [Tetris](./sources/LUA-LOVE2D-Tetris/) - Jeu vidéo de puzzle sortie en 1984
-- [Casse-briques](./sources/LUA-LOVE2D-CasseBrique/) - Jeu vidéo arcade sortie en 1975
+- [Tetris](https://github.com/wmalbos/Game-Tetris) - Jeu vidéo de puzzle sortie en 1984
+- [Casse-briques](https://github.com/wmalbos/Game-CasseBrique) - Jeu vidéo arcade sortie en 1975
 - [Pong](./sources/LUA-LOVE2D-Pong/) - Jeu vidéo d'arcade sortie en 1972
 
 #### JavaScript
 - [Puissance 4](./sources/JS-Puissance4/) (bientôt)
 - [Memory](https://github.com/wmalbos/GAME-Memory) - Jeu de société sortie en 1959
-- 
+
 #### JavaScript et Phaser.js
 - [Plateforme2D ](./sources/JS-PHASER-Plateforme2D/) (bientôt)
 
