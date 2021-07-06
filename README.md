@@ -50,7 +50,7 @@
 
 #### JavaScript
 - [Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
-
+- [Ubuntu]() - Simulation de système d'exploitation au format web (bientôt)
 
 ## Algorithmique
 - [Parcours en profondeur](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
@@ -93,7 +93,6 @@
 - [Site vitrine]() - Site vitrine de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS](). (bientôt)
 - [eShop]() - Boutique de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS](). (bientôt)
 - [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisé de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement tout en restant très abordable pour des clients n'apréciant pas l'informatique. (bientôt)
-- [Ubuntu]() - Simulation d'un système d'exploitation au format web (bientôt)
 - [InMoov]() - Ce projet me permet de réaliser un rêve, construire un robot grandeur nature, tout en apprenant la Robotique grâce à [InMoov](https://inmoov.fr/) (bientôt)
 
 
