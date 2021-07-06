@@ -23,7 +23,7 @@
 
 ## Expérimentations
 
-#### Python 
+#### Python et PyGame
 - [RPG2D - Pygamon](https://github.com/wmalbos/RPG2D-Pygamon) - Démo d'un jeu 2D avec le framework PyGame
 
 #### C# 
