@@ -26,6 +26,7 @@
 
 ## Expérimentations
 
+- [RPG2D - Pygamon](https://github.com/wmalbos/RPG2D-Pygamon) - Démo d'un jeu 2D sous PyGame
 
 #### C# 
 - [POO - Combats de terminal](./sources/CSHARP-TerminalFights/)  - Expérimentation de la POO en C#
