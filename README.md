@@ -80,19 +80,13 @@
 
 ## Web
 
-#### Intégrations
-
-#### Applications
-
-#### Portfolio
-- [Classique](./sources/PORTFOLIO-Classique) - Développé en 2018, utilisation de fichiers JSON pour simuler une base de donnée
-
+- [Portfolio classique](./sources/PORTFOLIO-Classique) - Développé en 2018, utilisation de fichiers JSON pour simuler une base de donnée
+- [Site vitrine]() - Site vitrine de démonstration - 100% sur-mesure réalisé avec mon propre [CMS](). (bientôt)
+- [eShop]() - Boutique de démonstration - 100% sur-mesure réalisé avec mon propre [CMS](). (bientôt)
 
 ## Autres Projets
 
-- [Site vitrine]() - Site vitrine de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS](). (bientôt)
-- [eShop]() - Boutique de démonstration - 100% du sur-mesure réalisé avec mon propre [CMS](). (bientôt)
-- [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisé de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement tout en restant très abordable pour des clients n'apréciant pas l'informatique. (bientôt)
+- [CMS]() - Simple d'utilisation, et complètement paramétrable, il est à la croisée de Wordpress et Prestashop pour le principe de gestion de contenu. Développé sous Symfony, il permet de développer toute nouvelle fonctionnalité rapidement tout en restant très abordable pour des clients n'appréciant pas l'informatique. (bientôt)
 - [InMoov]() - Ce projet me permet de réaliser un rêve, construire un robot grandeur nature, tout en apprenant la Robotique grâce à [InMoov](https://inmoov.fr/) (bientôt)
 
 
