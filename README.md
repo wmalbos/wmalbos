@@ -51,6 +51,9 @@
 - [Système solaire ](./sources/JS-SolarSystem/) - Animation du système solaire
 - [Ubuntu]() - Simulation de système d'exploitation au format web (bientôt)
 
+#### JavaScript et Phaser.js
+- [RPG2D - Voyager](https://github.com/wmalbos/RPG2D-Voyager) - Démo d'un jeu 2D avec le framework Phaser.js
+
 ## Algorithmique
 - [Structure de donnée - Liste chainée](https://github.com/wmalbos/Structure-linked-list) - Implémentation d'une structure de données de type "liste chainée" (bientôt)
 - [Structure de donnée - Queue](https://github.com/wmalbos/Structure-queue) - Implémentation d'une structure de données de type "queue" (bientôt)
