@@ -52,6 +52,9 @@
 - [Ubuntu]() - Simulation de système d'exploitation au format web (bientôt)
 
 ## Algorithmique
+- [Structure de donnée - Liste chainée](https://github.com/wmalbos/Structure-linked-list) - Implémentation d'une structure de données de type "liste chainée" (bientôt)
+- [Structure de donnée - Queue](https://github.com/wmalbos/Structure-queue) - Implémentation d'une structure de données de type "queue" (bientôt)
+- [Structure de donnée - Graphe](https://github.com/wmalbos/Structure-graphe) - Implémentation d'une structure de données de type "graphe" (bientôt)
 - [Trie rapide](https://github.com/wmalbos/Trie-rapide) - Algorithme de trie "Quicksort" (bientôt)
 - [Trie fusion](https://github.com/wmalbos/Trie-fusion) - Algorithme de trie par fusion (bientôt)
 - [Trie à bulles](https://github.com/wmalbos/Trie-bulles) - Algorithme de tri par propagation (bientôt)
