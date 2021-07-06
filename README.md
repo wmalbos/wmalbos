@@ -55,7 +55,7 @@
 - [Parcours de graphe - Largeur](https://github.com/wmalbos/Parcours-graphe-largeur) - Algorithme de parcours d'un graphe en largeur (bientôt)
 - [Parcours de graphe - Profondeur (JavaScript)](https://github.com/wmalbos/Parcours-graphe-profondeur) - Algorithme de parcours en profondeur d'un graphe (bientôt)
 - [Parcours de graphe - Profondeur (Lua)](sources/ALGO-DepthFirstSearch/) - Génération d'un labyrinthe avec le parcours en profondeur
-- [Parcours de graphe - Bellman-Ford](https://github.com/wmalbos/Parcours-graphe-bellman-ford) - Algorithme de calcul des plus courts chemins depuis un sommet source donné dans un graphe orienté pondéré (bientôt)
+- [Parcours de graphe - Bellman-Ford](https://github.com/wmalbos/Parcours-graphe-bellman-ford) - Algorithme du plus court chemin dans un graphe (bientôt)
 - [Parcours de graphe - Dijkstra](https://github.com/wmalbos/Parcours-graphe-dijkstra) - Algorithme du plus court chemin dans un graphe (bientôt)
 ## Jeux vidéos
 
